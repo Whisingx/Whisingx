@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whisingdilli71&label=Profile%20views&color=0e75b6&style=flat" alt="whisingdilli71" /> </p>
 
-- 🌱 I’m currently learning: **Java**
+-  I’m currently learning: **Java(on break)**
 
-- 👨‍💻 All of my projects are available at: [https://whising.space](https://whising.space)
+-  All of my projects are available at: [https://whising.space](https://whising.space)
 
-- 💬 Ask me about: **Website development and game development! (GD Script)**
+-  Ask me about: **Website development and game development!**
 
-- 📫 How to reach me: **contact@whising.space/@whywhising on discord**
+-  How to reach me: **contact@whising.space/@whywhising on discord**
 
-- ⚡ Fun fact: **I am 14 years old (as of 14/06/26)**
+-  Fun fact: **I am 15 years old (as of 11/11/26)**
 
 - [![Hack Club](https://img.shields.io/badge/Hack_Club-%23EC3750.svg?style=flat&logo=Hack-Club&logoColor=white)](https://hackclub.com/): https://hackclub.com
 
